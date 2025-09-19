@@ -1,0 +1,12 @@
+# PyCharm config
+.idea/
+
+# Ses dosyaları
+dataset/
+*.wav
+*.mp3
+*.webm
+
+# Model ve geçici dosyalar
+*.pkl
+features.csv
